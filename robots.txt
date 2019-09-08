@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooshathili.doiyes.com/sitemap.xml
